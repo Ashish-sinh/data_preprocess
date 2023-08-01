@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="UTF-8">
-  <title>DataPrep-Pro 🛠️</title>
-</head>
 
 <body>
   <h1>Welcome to the DataPrep-Pro Repository! 🚀</h1>
